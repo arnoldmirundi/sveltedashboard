@@ -38,7 +38,7 @@ body {
 .logo-container {
   display: flex;
   align-items: center;
-  gap: 10px; /* Space between logo and text */
+  gap: 10px; 
 }
 
 .logo {
